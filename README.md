@@ -1,0 +1,3 @@
+IT Departmanı çalışanlarının kolay bir şekilde bir bilgisayara bağlandığında ya da fiziksel müdahale ettiği vakit bir cmd dosyasını çalıştırarak bilgisayarda gerekli ve işine yarayabileceği kod dizilimi bulunmaktadır. 
+Bu kod dizilimi seçtiği seçeneği algılayarak istediğini önüne sunması için hazırlanmıştır.
+Güncellenecektir...
